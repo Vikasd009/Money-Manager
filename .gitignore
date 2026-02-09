@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But allow these
+!src/
+!src/**
+
+!pom.xml
+!.gitignore
+!README.md
